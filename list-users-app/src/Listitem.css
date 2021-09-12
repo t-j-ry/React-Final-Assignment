@@ -1,0 +1,17 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .25rem;
+}
+
+li {
+    width: 300px;
+    list-style: none;
+    border: 1px solid black;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: .5rem;
+}
